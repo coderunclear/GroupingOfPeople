@@ -1,0 +1,15 @@
+D:\APK\C#\Projects\GroupingOfPeople\bin\Debug\net6.0\GroupingOfPeople.exe
+D:\APK\C#\Projects\GroupingOfPeople\bin\Debug\net6.0\GroupingOfPeople.deps.json
+D:\APK\C#\Projects\GroupingOfPeople\bin\Debug\net6.0\GroupingOfPeople.runtimeconfig.json
+D:\APK\C#\Projects\GroupingOfPeople\bin\Debug\net6.0\GroupingOfPeople.dll
+D:\APK\C#\Projects\GroupingOfPeople\bin\Debug\net6.0\GroupingOfPeople.pdb
+D:\APK\C#\Projects\GroupingOfPeople\obj\Debug\net6.0\GroupingOfPeople.csproj.AssemblyReference.cache
+D:\APK\C#\Projects\GroupingOfPeople\obj\Debug\net6.0\GroupingOfPeople.GeneratedMSBuildEditorConfig.editorconfig
+D:\APK\C#\Projects\GroupingOfPeople\obj\Debug\net6.0\GroupingOfPeople.AssemblyInfoInputs.cache
+D:\APK\C#\Projects\GroupingOfPeople\obj\Debug\net6.0\GroupingOfPeople.AssemblyInfo.cs
+D:\APK\C#\Projects\GroupingOfPeople\obj\Debug\net6.0\GroupingOfPeople.csproj.CoreCompileInputs.cache
+D:\APK\C#\Projects\GroupingOfPeople\obj\Debug\net6.0\GroupingOfPeople.dll
+D:\APK\C#\Projects\GroupingOfPeople\obj\Debug\net6.0\refint\GroupingOfPeople.dll
+D:\APK\C#\Projects\GroupingOfPeople\obj\Debug\net6.0\GroupingOfPeople.pdb
+D:\APK\C#\Projects\GroupingOfPeople\obj\Debug\net6.0\GroupingOfPeople.genruntimeconfig.cache
+D:\APK\C#\Projects\GroupingOfPeople\obj\Debug\net6.0\ref\GroupingOfPeople.dll
